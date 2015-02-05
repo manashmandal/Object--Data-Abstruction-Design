@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1423149305 source:c:\users\manash\documents\projectcpp\src\computer.cpp
+	"Computer.h"
+	<sstream>
+
+1423152486 c:\users\manash\documents\projectcpp\include\computer.h
+	<string>
+
+1423152195 source:c:\users\manash\documents\projectcpp\src\laptop.cpp
+	"Laptop.h"
+	"Computer.h"
+	<sstream>
+
+1423152237 c:\users\manash\documents\projectcpp\include\laptop.h
+	"Computer.h"
+
+1423161517 source:c:\users\manash\documents\projectcpp\main.cpp
+	<iostream>
+	"Computer.h"
+	"Laptop.h"
+	"Food.h"
+	"Address.h"
+
+1423157818 c:\users\manash\documents\projectcpp\include\food.h
+
+1423158609 source:c:\users\manash\documents\projectcpp\src\food.cpp
+	"Food.h"
+
+1423161559 c:\users\manash\documents\projectcpp\include\address.h
+	<string>
+
+1423160702 source:c:\users\manash\documents\projectcpp\src\address.cpp
+	"Address.h"
+	<sstream>
+
