@@ -1,9 +1,15 @@
 # Object--Data-Abstruction-Design
 
 
-```cpp
-int main()
+```arduino
+void setup()
 {
 
+}
+
+
+void loop()
+{
+   pinMode(ledPin, OUTPUT);
 
 }
